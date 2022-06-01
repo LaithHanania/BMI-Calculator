@@ -1,4 +1,4 @@
-
+Note: This repositoriy was originally cloned for skeleton code for the purpose of learning iOS development
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 #  BMI Calculator
